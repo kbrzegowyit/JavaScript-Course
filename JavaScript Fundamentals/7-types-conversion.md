@@ -1,13 +1,8 @@
 # Data types: Primitive types conversion
-
-Omówienie konwersji podstawowych typów (prymitywnych) do String, Number, Boolean
-
-Pytania:
-1) Omów konwersję typów podstawowych (prymitywnych) do typu String, Number, Boolean.
-   Zwróć uwagę na wyjatki.
+Opracowanie dotyczące konwersji typów podstawowych (prymitywnych) do `string`, `number`, `boolean`.
 
 ## String
-Bardzo oczywista, w zasadzie wszystko jest pakowane w cudzysłowie. 
+Bardzo oczywista, w zasadzie wszystko jest pakowane w cudzysłowia. 
 Ma miejsce kiedy potrzebujemy stringa z wartości.
 
 ```javascript
@@ -67,6 +62,9 @@ console.log(Boolean(" ")); // true, spacja (biały znak)
 // Other values are true
 ```
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Pytania
+1. Omów konwersję typów podstawowych do typu `string`.
+2. Omów konwersję typów podstawowych do typu `number`.
+3. Omów konwersję typów podstawowych do typu `boolean`.
+ 
+**Zwróć uwagę na wyjątki!**
