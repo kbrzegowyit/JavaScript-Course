@@ -1,4 +1,4 @@
-# Data types: Primitive types conversion
+# JavaScript Fundamentals: Types conversion
 Opracowanie dotyczące konwersji typów podstawowych (prymitywnych) do `string`, `number`, `boolean`.
 
 ## String
