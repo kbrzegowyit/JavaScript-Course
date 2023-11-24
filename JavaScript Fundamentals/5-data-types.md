@@ -16,7 +16,7 @@ Omówienie podstawowych typów w JavaScript.
 >**Operacje matematyczne są bezpieczne**, co oznacza, że nigdy nie otrzymamy błędu krytycznego kończącego wykonywanie skrypt *ang. fatal error*. W najgorszym przypadku dostaniemy `NaN`.
 
 #### Przedział liczbowy
->Integer ∈ <-<sup>53</sup>-1, 2<sup>53</sup>-1>
+>Integer ∈ <-2<sup>53</sup>-1, 2<sup>53</sup>-1>
 
 ## BigInt
 #### Reprezentacja liczb
