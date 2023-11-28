@@ -1,4 +1,3 @@
-# JavaScript Course
-<div style="text-align:center">
-  <img src="./JavaScript%20Fundamentals/assets/javascript.png" width="50%" height="50%" alt="Opis obrazu">
-</div>
+# [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript Course
+
+This is a study of JavaScript concepts, starting with the basics and progressing to advanced.
