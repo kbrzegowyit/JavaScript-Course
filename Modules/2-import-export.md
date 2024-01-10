@@ -39,6 +39,16 @@ export {sayHi, sayBye}; // a list of exported variables
 import * as say from './say.js';
 ```
 
+if importing everything * as an object, then the default property is exactly the default export.
+
+```
+// 📁 main.js
+import * as user from './user.js';
+
+let User = user.default; // the default export
+new User('John');
+```
+
 ## import / export "as"
 - import "as" - we can import under different names.
 ```
