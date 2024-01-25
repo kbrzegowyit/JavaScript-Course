@@ -1,4 +1,4 @@
-# Object the basics: Objects
+# Objects the basics: Objects
 
 This article is about objects in JavaScript.
 
