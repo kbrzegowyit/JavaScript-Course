@@ -1,4 +1,4 @@
-# Data types: Methods Of Primitives
+# Data types: Numbers
 
 This article is about numbers in JavaScript.
 
