@@ -51,6 +51,17 @@ The base can vary from 2 to 36. By default it’s 10.
 
 Normally, the first case is equal false and the second one is equal true.
 
+## parseInt and parseFloat
+
+### Strict conversion
+Numeric conversion using a plus `+` or `Number()` is strict. If a value is not exactly a number, it fails.
+
+### parseInt and parseFloat
+They “read” a number from a string until they can’t. In case of an error, the gathered number is returned. The function parseInt returns an integer, whilst parseFloat will return a floating-point number.
+
+### Error
+There are situations when parseInt/parseFloat will return NaN. It happens when no digits could be read.
+
 ## Questions
 1. How can we write numbers in JavaScript?
 2. What other number systems are additionally supported?
@@ -58,4 +69,7 @@ Normally, the first case is equal false and the second one is equal true.
 4. How can we round numbers to integers and decimals?
 5. What are `isNaN` and `isFinite`?
 6. What is the difference between them?
-7. What are edge cases in case of `Object.is` for `NaN` and `0/-0`
+7. What are edge cases in case of `Object.is` for `NaN` and `0/-0`?
+8. How does `+` and `Number()` work?
+9. How does `parseInt` and `parseFloat` work?
+10. When do they throw an error?
