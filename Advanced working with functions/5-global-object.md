@@ -24,3 +24,4 @@ if (!window.Promise) {
 1. What is the global object?
 2. What is it named in a browser versus Node.js?
 3. What does become part of the global object in the browser? When?
+4. How can we use it with polyfills?
